@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "StraightSMP.play.hosting",
+    "port": 14170,
     "version": "",
     "try-creative": false
   },
